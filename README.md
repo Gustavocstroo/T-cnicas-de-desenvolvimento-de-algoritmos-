@@ -32,7 +32,7 @@ Você pode acessar as listas de exercícios diretamente no link abaixo:
 
 - [Listas no Google Colab](https://github.com/Gustavocstroo/T-cnicas-de-desenvolvimento-de-algoritmos-/blob/c37f0f0eadee2f3d17c4561ba0ad735fa67e06dc/Listas_Collab)
 
-- 
+  
 ## 📁 Estrutura do Repositório
 
 ```bash
