@@ -27,6 +27,12 @@ Este repositório contém materiais, exercícios, códigos e informações impor
 - IDEs recomendadas: [Visualg](https://visualg3.com.br/), [VSCode](https://code.visualstudio.com/), [Thonny](https://thonny.org/)
 - Simuladores e ferramentas online: [PSeInt](https://pseint.sourceforge.net/), [Replit](https://replit.com/)
 
+## 📒 Listas no Google Colab
+Você pode acessar as listas de exercícios diretamente no link abaixo:
+
+- [Listas no Google Colab](https://github.com/Gustavocstroo/T-cnicas-de-desenvolvimento-de-algoritmos-/blob/c37f0f0eadee2f3d17c4561ba0ad735fa67e06dc/Listas_Collab)
+
+- 
 ## 📁 Estrutura do Repositório
 
 ```bash
@@ -49,7 +55,4 @@ Este repositório contém materiais, exercícios, códigos e informações impor
     ├── exemplo_condicional.alg
     ├── exemplo_repeticao.alg
     └── ...
-## 📒 Listas no Google Colab
-Você pode acessar as listas de exercícios diretamente no link abaixo:
 
-- [Listas no Google Colab](https://github.com/Gustavocstroo/T-cnicas-de-desenvolvimento-de-algoritmos-/blob/c37f0f0eadee2f3d17c4561ba0ad735fa67e06dc/Listas_Collab)
